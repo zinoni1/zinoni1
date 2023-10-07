@@ -33,10 +33,11 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=zinoni1&show_icons=true" />
-</picture>
-<a>
+  <a>
   <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinoni1&layout=donut" />
 </a>
+</picture>
+
   </tr>
 </td>
 </table>
