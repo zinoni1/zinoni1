@@ -19,10 +19,7 @@
 </p>
 
 ### 🏆 My Github stats:
-  <br><br>
-  <table>
-  <td>
-  <tr>
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=zinoni1&show_icons=true&theme=tokyonight"
@@ -36,6 +33,5 @@
   <a>
   <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinoni1&layout=donut" />
 </a>
-  </tr>
-</td>
+ 
 </table>
