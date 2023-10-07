@@ -25,7 +25,9 @@
 </p>
 
 ### 🏆 My Github stats:
-
+<a href="https://github-readme-stats.vercel.app/api?username=zinoni1&amp;theme=tokyonight" rel="nofollow">
+  <img align="left" src="https://camo.githubusercontent.com/741c519bdb40f914c231e46e34a492d1d0897a5a6e3996e742ac2e6dd1268ed0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d43686172616c616d626f73496f616e6e6f7526636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api?username=zinoni1&amp;count_private=true&amp;show_icons=true&amp;theme=tokyonight" style="max-width: 100%;">
+</a>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=zinoni1&show_icons=true&theme=tokyonight"
