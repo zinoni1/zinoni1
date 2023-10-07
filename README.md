@@ -30,8 +30,6 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=zinoni1&show_icons=true" />
-
-
-    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinoni1&layout=donut" />
 </picture> 
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinoni1&layout=donut" />
 </table>
