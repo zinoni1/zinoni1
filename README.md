@@ -3,7 +3,12 @@
 - 🔭 I’m currently working on Java, C#, Kotlin...
 - 🌱 I’m currently learning  C# and Kotlin
 - 💬 Ask me about any thing
-  
+
+### 🎶 My favorite song:
+♫ CH4YN - Why Do You Hate Me (Official Video) 🎥
+───────────⚪─────────────────
+₁:₃₂ / ₃:₃₂ ◄◄⠀▐▐ ⠀►► 🔇 ───○🔊 　ᴴᴰ ⚙ ❐
+
 ### 📫 How to reach me:
 <p>
  <a href="https://www.linkedin.com/in/zenonrodrigo" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
