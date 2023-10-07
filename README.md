@@ -16,7 +16,6 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=zinoni1&show_icons=true" />
 </picture>
-<br>
 <a>
-  <img height=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinoni1&layout=donut-vertical" />
+  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinoni1&layout=donut-vertical" />
 </a>
