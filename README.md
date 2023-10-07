@@ -1,4 +1,4 @@
-### Hi im Zenon, im studing Development Multiplatform Application
+### Hi im Zenon 👋👋
 
 - 🔭 I’m currently working on Java, C#, Kotlin...
 - 🌱 I’m currently learning  C# and Kotlin
