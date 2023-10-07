@@ -18,5 +18,5 @@
 </picture>
 <br>
 <a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinoni1&layout=donut-vertical" />
+  <img height=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinoni1&layout=donut-vertical" />
 </a>
