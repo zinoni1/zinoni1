@@ -22,7 +22,7 @@
 </tr>
 <tr>
 <a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinoni1&layout=donut" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinoni1&layout=donut" />
 </a>
   </tr>
 </td>
