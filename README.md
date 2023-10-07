@@ -28,6 +28,6 @@
 <a href="https://github-readme-stats.vercel.app/api?username=zinoni1&amp;theme=tokyonight" rel="nofollow">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=zinoni1&amp;theme=tokyonight" data-canonical-src="https://github-readme-stats.vercel.app/api?username=zinoni1&amp;count_private=true&amp;show_icons=true&amp;theme=tokyonight" style="max-width: 100%;">
 </a>
-<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinoni1&layout=donut" />
+<img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinoni1&layout=donut" />
 
 </table>
