@@ -8,6 +8,10 @@
 <p>
  <a href="https://www.linkedin.com/in/zenonrodrigo" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:zenropru@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.instagram.com/zinoni1" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/social%20icons/instagram.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href="https://open.spotify.com/user/50rb92fmlfj32sszv48x8yka4" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/social%20icons/spotify.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="https://twitter.com/1Zinoni" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/social%20icons/twitter.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+  
 </p>
 
 ### 🧰 Languages and Tools:
