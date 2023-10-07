@@ -4,5 +4,15 @@
 - 🌱 I’m currently learning  C# and Kotlin
 - 💬 Ask me about any thing
 - 📫 How to reach me: zenropru@gmail.com
-
-[https://github-readme-stats.vercel.app/api?username=zinoni1](https://github-readme-stats.vercel.app/api?username=zinoni1&show_icons=true&theme=tokyonight)https://github-readme-stats.vercel.app/api?username=zinoni1&show_icons=true&theme=tokyonight
+  
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=zinoni1&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=zinoni1&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=zinoni1&show_icons=true" />
+</picture>
