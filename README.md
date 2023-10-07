@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning  C# and Kotlin
 - 💬 Ask me about any thing
 - 📫 How to reach me: zenropru@gmail.com
-  <br>
+
+  <br><br>
   <table>
   <td>
   <tr>
@@ -19,8 +20,6 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=zinoni1&show_icons=true" />
 </picture>
-</tr>
-<tr>
 <a>
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinoni1&layout=donut" />
 </a>
