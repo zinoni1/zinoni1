@@ -17,6 +17,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zinoni1&show_icons=true" />
 </picture>
 
-<a href="https://github.com/zinoni1/convoychat">
+<a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinoni1&layout=donut-vertical" />
 </a>
