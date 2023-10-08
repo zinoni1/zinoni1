@@ -1,5 +1,5 @@
 ### Hi im Zenon 👋👋
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 - 🔭 I’m currently working on Java, C#, Kotlin...
 - 🌱 I’m currently learning  C# and Kotlin
 - 💬 Ask me about any thing
