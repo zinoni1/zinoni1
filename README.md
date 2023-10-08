@@ -1,8 +1,10 @@
 ### Hi im Zenon 👋👋
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-- 🔭 I’m currently working on Java, C#, Kotlin...
-- 🌱 I’m currently learning  C# and Kotlin
-- 💬 Ask me about any thing
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" style="max-width: 100%; display: inline-block; height: 340px;" data-target="animated-image.originalImage">
+<ul>
+ <li> 🔭 I’m currently working on Java, C#, Kotlin...</li>
+<li> 🌱 I’m currently learning  C# and Kotlin</li>
+<li> 💬 Ask me about any thing</li>
+</ul>
 
 ### 🎶 My favorite song:
 ♫ CH4YN - Why Do You Hate Me (Official Video) 🎥 <br>
