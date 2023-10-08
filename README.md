@@ -7,7 +7,7 @@
 </ul>
 
 ### 🎶 My favorite song:
-♫ CH4YN - Why Do You Hate Me (Official Video) 🎥 <br>
+<a style='text-decoration:none; href="https://www.youtube.com/watch?v=FQbC7MLC9Qg" '>♫ CH4YN - Why Do You Hate Me (Official Video) 🎥</a> <br>
 ───────────⚪───────────────── <br>
 ₁:₃₂ / ₃:₃₂ ◄◄⠀▐▐ ⠀►► 🔇 ───○🔊 　ᴴᴰ ⚙ ❐
 
