@@ -1,8 +1,8 @@
 ### Hi im Zenon 👋👋
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" style="max-width: 100%; display: inline-block; height: 340px;" data-target="animated-image.originalImage">
 <ul>
- <li> 🔭 I’m currently working on Java, C#, Kotlin, PHP...</li>
-<li> 🌱 I’m currently learning  PHP and Kotlin</li>
+ <li> 🔭 I’m currently working on Java, Kotlin, PHP, Angular...</li>
+<li> 🌱 I’m currently learning  PHP, Kotlin, Angular and C#</li>
 <li> 💬 Ask me about any thing</li>
 </ul>
 
@@ -51,4 +51,4 @@
 <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinoni1&layout=donut" />
 
 </table>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572"><img src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=60&amp;section=footer" style="max-width: 100%;"></a>
+
