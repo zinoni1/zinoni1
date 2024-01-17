@@ -18,9 +18,9 @@
   <a href="https://www.instagram.com/zinoni1" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/social%20icons/instagram.svg" alt="insta" height="40" style="vertical-align:top; margin:4px"></a>
   <a href="https://open.spotify.com/user/50rb92fmlfj32sszv48x8yka4" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/social%20icons/spotify.svg" alt="spotify" height="40" style="vertical-align:top; margin:4px"></a>
    <a href="https://twitter.com/1Zinoni" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/social%20icons/twitter.svg" alt="twitter" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://twitter.com/1Zinoni" target="_blank" rel="noopener noreferrer"> <img 
+ <a href="https://discord.com/channels/@me" target="_blank" rel="noopener noreferrer"> <img 
 src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/social%20icons/discord.svg" alt="discord" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://twitter.com/1Zinoni" target="_blank" rel="noopener noreferrer"> <img 
+ <a href="https://www.tiktok.com/@MS4wLjABAAAAlieXHFp8vLpcIP1VP7Xniq9TyoRCTgBgnfrtACFn0hMeAFarfSHUa4T4kU_D8nXs" target="_blank" rel="noopener noreferrer"> <img 
 src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/social%20icons/tiktok.svg" alt="tiktok" height="40" style="vertical-align:top; margin:4px"></a>
 
 </p>
