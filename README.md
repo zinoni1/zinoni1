@@ -50,6 +50,14 @@ src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2c
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/frameworks/angular.svg" alt="Angular" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/frameworks/nodejs.svg" alt="nodejs" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/social%20icons/wordpress.svg" alt="wordpress" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/zinoni1/zinoni1/assets/114431338/39a27d06-7795-4aa7-9ab5-d08da19c0f55" alt="docker" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/zinoni1/zinoni1/assets/114431338/768e4207-e2d2-4869-99bd-908c3ac8734a" alt="Firebase" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/zinoni1/zinoni1/assets/114431338/cd0f1841-aa22-49d2-8824-83422831a953" alt="MongoDb" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/zinoni1/zinoni1/assets/114431338/1c0d5592-e735-4ede-81a9-85494f699f0e" alt="Json" height="40" style="vertical-align:top; margin:4px">
+
+
+
+
 </p>
 
 ### 🏆 My Github stats:
