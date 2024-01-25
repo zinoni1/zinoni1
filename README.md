@@ -54,8 +54,13 @@ src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2c
 <img src="https://github.com/zinoni1/zinoni1/assets/114431338/768e4207-e2d2-4869-99bd-908c3ac8734a" alt="Firebase" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/zinoni1/zinoni1/assets/114431338/cd0f1841-aa22-49d2-8824-83422831a953" alt="MongoDb" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/zinoni1/zinoni1/assets/114431338/1c0d5592-e735-4ede-81a9-85494f699f0e" alt="Json" height="40" style="vertical-align:top; margin:4px">
-
-
+<img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" height="40" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="figma" height="40" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" alt="MariaDb" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="sqlserver" height="40" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="arduino" height="40" style="vertical-align:top; margin:4px">
 
 
 </p>
