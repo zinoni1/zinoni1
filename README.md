@@ -60,6 +60,7 @@ src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2c
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" alt="MariaDb" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="sqlserver" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/social%20icons/bitbucket.svg" alt="bash" height="40" style="vertical-align:top; margin:4px">
 
 
 
